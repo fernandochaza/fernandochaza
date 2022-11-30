@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b> Trust me. I'm working on it. A year from now, this will be full of meaningful, powerful, outstanding coding projects. </b>
+  <b> Trust me. I'm working on it. </b>
 </h1>
 
 <a href="https://www.linkedin.com/in/fernandochaza"><img src="imgs/LinkedIn_Logo.png" alt="LinkedIn" width="78" height="21"></a>
