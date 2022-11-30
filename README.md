@@ -1,6 +1,6 @@
-### Hi there 👋
-
-### Trust me. A year from now, this will be full of meaninfull, powerful, oustanding coding projecs.
+<p align="center"> 
+  ### Trust me. A year from now, this will be full of meaninfull, powerful, oustanding coding projecs.
+</p>
 
 
 
