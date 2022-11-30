@@ -2,7 +2,7 @@
   Trust me. A year from now, this will be full of meaninfull, powerful, oustanding coding projecs.
 </p>
 
-<a href="https://www.linkedin.com/in/fernandochaza"><img src="imgs/Linkedin_Logo.png" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/fernandochaza"><img src="imgs/LinkedIn_Logo.png" alt="LinkedIn"></a>
 
 <!--
 **fernandochaza/fernandochaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
