@@ -1,8 +1,8 @@
 <p align="center"> 
-  ### Trust me. A year from now, this will be full of meaninfull, powerful, oustanding coding projecs.
+  Trust me. A year from now, this will be full of meaninfull, powerful, oustanding coding projecs.
 </p>
 
-
+<a href="https://www.linkedin.com/in/fernandochaza"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 
 <!--
 **fernandochaza/fernandochaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
