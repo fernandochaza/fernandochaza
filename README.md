@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Trust me. A year from now, this will be full of meaninfull, powerful, oustanding coding projecs.
+
+
+
 <!--
 **fernandochaza/fernandochaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
