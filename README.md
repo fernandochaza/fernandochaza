@@ -1,5 +1,5 @@
 <p align="center"> 
-  Trust me. A year from now, this will be full of meaninfull, powerful, oustanding coding projecs.
+  <b> Trust me. A year from now, this will be full of meaninfull, powerful, oustanding coding projecs. </b>
 </p>
 
 <a href="https://www.linkedin.com/in/fernandochaza"><img src="imgs/LinkedIn_Logo.png" alt="LinkedIn" width="85" height="30"></a>
