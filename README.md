@@ -1,6 +1,6 @@
 # 💫 About Me
 
-**Junior Frontend Developer** 💻 --- **Based in Argentina** 🇦🇷 --- **English/Spanish speaker** 💬
+**Frontend Developer** 💻 --- **Based in Argentina** 🇦🇷 --- **English/Spanish speaker** 💬
 
 👨‍🎓  Pursuing a bachelor's degree in computer science at Brigham Young University<br>🔭 Working on NextJS web applications to enhance my Frontend skills.<br>👯  Looking to collaborate on Frontend Development projects.<br>💻  Looking for a web development role.<br>  
 
